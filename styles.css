@@ -6,4 +6,15 @@
 body{
     width: 100%;
     height: 100vh;
+    overflow: hidden;
+}
+.container{
+    margin-top: 13em;
+    margin-left: 32em;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
 }
