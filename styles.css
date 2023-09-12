@@ -12,15 +12,17 @@ body{
 }
 a{
     text-decoration: none;
+    text-align: center;
+    color: #fff;
 }
 .container{
-    margin-top: 12em;
+    margin-top: 8em;
     margin-left: 30em;
     width:25em;
-    height:25em;
+    height:28em;
     border-radius: 20px;
-    border: 1px solid #000000;
     background-color: #fff;
+    box-shadow: 1px 1px 0px 0px #ccc;
 
 }
 img{
@@ -31,4 +33,15 @@ img{
 }
 p{
     text-align: center;
+    margin-top: 15px;
+}
+.timer{
+    font-family: 'Changa', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
 }
