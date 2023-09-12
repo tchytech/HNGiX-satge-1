@@ -8,9 +8,16 @@ body{
     height: 100vh;
     overflow: hidden;
 }
+a{
+    text-decoration: none;
+}
 .container{
-    margin-top: 13em;
-    margin-left: 32em;
+    margin-top: 15em;
+    margin-left: 35em;
+    border: 1px soild black;
+    width:18em;
+    height:28em;
+    border-radius: 20px;
 
 }
 img{
